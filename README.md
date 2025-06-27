@@ -1,8 +1,7 @@
 <div align="center">
-  <img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=015f00&text=Leonardo%20Tavares&reversal=false&section=header&textBg=false&fontAlign=50&fontAlignY=35&animation=twinkling&fontColor=00a7ff&descAlign=50&descAlignY=50&fontSize=60" alt="Typing SVG" />
+  <img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=015f00&text=Leonardo%20Tavares&reversal=false&section=header&textBg=false&fontAlign=50&fontAlignY=35&animation=twinkling&fontColor=00a7ff&descAlign=50&descAlignY=50&fontSize=60" alt="Typing SVG" />
 </div>
 
-</br>
 
 <div align="center">
   <a href="https://www.instagram.com/_leonardo_tavares_/">
@@ -31,3 +30,8 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,git,c,mongodb"/>
   </a>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leonardotav1/Leonardotav1/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Leonardotav1/Leonardotav1/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Leonardotav1/Leonardotav1/output/github-contribution-grid-snake.svg">
+</picture>
