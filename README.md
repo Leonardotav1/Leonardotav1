@@ -1,21 +1,33 @@
-## Hello, i`m Leonardo ✌️
+<div align="center">
+  <img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=015f00&text=Leonardo%20Tavares&reversal=false&section=header&textBg=false&fontAlign=50&fontAlignY=35&animation=twinkling&fontColor=00a7ff&descAlign=50&descAlignY=50&fontSize=60" alt="Typing SVG" />
+</div>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://www.instagram.com/_leonardo_tavares_/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-tavares-696240289/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardotavares656@gmail.com)
+</br>
 
-![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonardotav1&show_icons=true&theme=dracula)
+<div align="center">
+  <a href="https://www.instagram.com/_leonardo_tavares_/">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/instagram.svg"/>
+  </a>
+  <a href="https://www.linkedin.com/in/leonardo-tavares-696240289/">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/linkedin.svg"/>
+  </a>
+  <a href="https://discord.com/users/f_leonardo_2006">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/discord.svg"/>
+  </a>
+</div>
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardotav1&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+</br>
 
-### Tecnologias que uso no meu dia
-<div style="display: inline_block"><br>
-  <img align="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img align="center" alt="JavaScriptt" src="https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript"
-</div><br>
+<div align="center">
+  <img height="190px" width="50%" src="https://github-readme-stats.vercel.app/api?username=Leonardotav1&show_icons=true&theme=dark"/>
+  <img height="190px" width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardotav1&hide=html&layout=compact&theme=dark"/>
+</div>
 
-Apaixonado por tecnologia e suas funcionalidades! <br> 
-Programador em construção...
+<br>
+
+<h1>Tecnologias</h1>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,git,c,mongodb"/>
+  </a>
+
