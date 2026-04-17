@@ -1,20 +1,41 @@
-<div align="center">
-  <img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=015f00&text=Leonardo%20Tavares&reversal=false&section=header&textBg=false&fontAlign=50&fontAlignY=35&animation=twinkling&fontColor=00a7ff&descAlign=50&descAlignY=50&fontSize=60" alt="Typing SVG" />
-</div>
-
-<div>
-    Olá me chamo Leonardo, sou estudante do curso de Análise e Desenvolvimente de Sistemas no IFPB Campus Cajazeiras.
-    <br> Veja aqui algumas informações sobre mim, e seja bem vindo! :)
-</div>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&center=true&vCenter=true&width=435&lines=Hey%2C+i%C2%B4m+Leonardo;Welcome+to+my+profile" alt="Typing SVG" /></a>
+</p>
 
 
-<br>
+## 📖 About me
 
-## 📚 Tecnologias
+Hello! I'm **Leonardo**, a **Systems Analysis and Development student** passionate about building modern web and mobile applications.
 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,java,nodejs,react,git,mongodb,tailwind"/>
-  </a>
+Currently, I am improving my skills in:
+
+* ⚛️ **React** and **React Native** for modern interfaces
+* 🟢 **Node.js** and **TypeScript** for backend development
+* 🍃 **MongoDB** for database management
+* 🔧 **Git & GitHub** for version control
+
+I enjoy turning ideas into practical solutions and continuously learning through real projects.
+
+🎯 My current goal is to gain professional experience, contribute to meaningful projects, and grow as a **Fullstack Developer**.
+
+## 🛠️ Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge\&logo=c-sharp\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-8B0000?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+## 🔭 Contributions  
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leonardotav1/Leonardotav1/output/github-contribution-grid-snake-dark.svg">
@@ -24,7 +45,8 @@
 
 </br>
 
-## 📬 Me encontre aqui!
+
+## 📬 Meet me here!
 
 <div >
   <a href="https://www.instagram.com/_leonardo_tavares_/">
@@ -36,11 +58,5 @@
   <a href="mailto:leonardotavares656@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&Color=00a7ff&logoColor=white" />
   </a>
-
-</div>
-
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=015f00&section=footer&strokeWidth=0&stroke=00FF00&descAlignY=100">
 </div>
 
