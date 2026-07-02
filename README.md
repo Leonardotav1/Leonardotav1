@@ -7,12 +7,20 @@
 
 Hello! I'm **Leonardo**, a **Systems Analysis and Development student** passionate about building modern web and mobile applications.
 
-Currently, I am improving my skills in:
+## 🚀 Currently Working On
 
-* ⚛️ **React** and **React Native** for modern interfaces
-* 🟢 **Node.js** and **TypeScript** for backend development
-* 🍃 **MongoDB** for database management
-* 🔧 **Git & GitHub** for version control
+- 🎮 Developing a 2D game with Unity and C#
+- 🌐 Fullstack web applications with React, Node.js and MongoDB
+- 📱 Learning React Native for mobile development
+- 📚 Improving software architecture and clean code practices
+
+## 💡 What I Can Build
+
+- Responsive web applications
+- REST APIs with Node.js and Express
+- MongoDB database integration
+- Desktop applications in Java
+- 2D Games with Unity
 
 I enjoy turning ideas into practical solutions and continuously learning through real projects.
 
@@ -44,7 +52,6 @@ I enjoy turning ideas into practical solutions and continuously learning through
 </picture>
 
 </br>
-
 
 ## 📬 Meet me here!
 
